@@ -50,7 +50,13 @@
 
 ### 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ItsMeD4N&theme=dark&hide_border=true)
+<div align="center">
+
+<h3>🔥 Contribution Streak</h3>
+
+<img src="https://streak-stats.demolab.com?user=ItsMeD4N&theme=dark&hide_border=true" />
+
+</div>
 
 ---
 
