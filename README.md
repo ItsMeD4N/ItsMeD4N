@@ -1,8 +1,9 @@
 <h1 align="center">🌙 Welcome to My GitHub</h1>
 
 <p align="center">
-  <strong>🚀 Lua Enthusiast • 🛠️ C/C++/C# Programmer • 🎮 Roblox Developer</strong><br>
-  <img src="https://komarev.com/ghpvc/?username=ItsMeD4N&style=flat&color=gray" alt="Profile views" />
+  <strong>🚀 Lua Enthusiast • 🛠️ C/C++/C# Programmer • 🎮 Roblox Developer</strong>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=ItsMeD4N&style=flat-square&color=gray" alt="Profile views" />
 </p>
 
 ---
@@ -21,6 +22,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D30?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/C-2C2D30?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-2C2D30?style=for-the-badge&logo=cpp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-2C2D30?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-2C2D30?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-2C2D30?style=for-the-badge&logo=react&logoColor=white" />
