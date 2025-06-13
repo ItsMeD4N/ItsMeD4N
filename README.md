@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>🚀 Lua Enthusiast • 🛠️ C/C++/C# Programmer • 🎮 Roblox Developer</strong><br>
-  <img src="https://komarev.com/ghpvc/?username=ItsMeD4N&style=flat-square&color=555" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ItsMeD4N&style=flat&color=gray" alt="Profile views" />
 </p>
 
 ---
