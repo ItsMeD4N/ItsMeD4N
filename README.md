@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/React-2C2D30?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-2C2D30?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Roblox-2C2D30?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-2C2D30?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 ---
