@@ -48,7 +48,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ItsMeD4N&show_icons=true&theme=dark&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeD4N&layout=compact&theme=dark&hide_border=true" height="165">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=ItsMeD4N&theme=onedark&column=7&no-frame=true&no-bg=true" />
+    <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ItsMeD4N&show_icons=true&theme=dark&hide_border=true" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeD4N&layout=compact&theme=dark&hide_border=true" width="250"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=ItsMeD4N&theme=onedark&row=2&column=3&no-frame=true&no-bg=true" width="300"/>
+    </td>
+  </tr>
 </p>
 
 ---
