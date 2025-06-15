@@ -3,7 +3,7 @@
 <p align="center">
   <strong>🚀 Lua Enthusiast • 🛠️ C/C++/C# Programmer • 🎮 Roblox Developer</strong>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=ItsMeD4N&style=flat-square&color=gray" alt="Profile views" />
+  <img src="https://profile-counter.glitch.me/ItsMeD4N/count.svg" />
 </p>
 
 ---
