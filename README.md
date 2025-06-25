@@ -68,9 +68,6 @@
 
 ---
 
-### 🧩 Fun Stuff
-
 ```lua
--- Thank you for visiting my GitHub!
-print("Stay curious. Stay sharp.")
+-- print("Thank you for visiting my GitHub!")
 ```
