@@ -1,7 +1,7 @@
 <h1 align="center">🌙 Welcome to My GitHub</h1>
 
 <p align="center">
-  <strong>🚀 Lua Enthusiast • 🛠️ C/C++/C# Programmer • 🎮 Roblox Developer</strong>
+  <strong>🚀 Lua Enthusiast • 🛠️ C/C++/C# Programmer • 🎮 Roblox Developer • 🎮 Fivem/Redm Developer</strong>
   <br><br>
   <img src="https://profile-counter.glitch.me/ItsMeD4N/count.svg" />
 </p>
@@ -13,7 +13,7 @@
 - 🔧 Building custom Lua executors and tools for Roblox
 - 🌌 Passionate about reverse engineering and system-level scripting
 - 🛠️ Focused on performance, minimalism, and clean UX
-- 💬 Tech stack: Lua, C, C++, C#, JavaScript, EJS, Supabase, Roblox Studio, Kali Linux
+- 💬 Tech stack: Lua, C, C++, C#, Python, JavaScript, EJS, Roblox Studio, Kali Linux
 
 ---
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <table align="center">
   <tr>
