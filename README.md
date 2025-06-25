@@ -1,7 +1,7 @@
 <h1 align="center">🌙 Welcome to My GitHub</h1>
 
 <p align="center">
-  <strong>🚀 Lua Enthusiast • 🛠️ C/C++/C# Programmer • 🎮 Roblox Developer • 🎮 Fivem/Redm Developer</strong>
+  <strong> 🛠️ C/C++/C# Programmer • 🎮 Roblox Developer • 🎮 Fivem/Redm Developer</strong>
   <br><br>
   <img src="https://profile-counter.glitch.me/ItsMeD4N/count.svg" />
 </p>
