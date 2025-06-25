@@ -3,6 +3,8 @@
 <p align="center">
   <strong> 🛠️ C/C++/C# Programmer • 🎮 Roblox Developer • 🎮 Fivem/Redm Developer</strong>
   <br><br>
+  <strong> 🙏🙏  In C++ We Trust 🙏🙏 </strong>
+  <br><br>
   <img src="https://profile-counter.glitch.me/ItsMeD4N/count.svg" />
 </p>
 
