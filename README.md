@@ -12,10 +12,8 @@
 
 ### 🧠 About
 
-- 🔧 Building custom Lua executors and tools for Roblox
 - 🌌 Passionate about reverse engineering and system-level scripting
 - 🛠️ Focused on performance, minimalism, and clean UX
-- 💬 Tech stack: Lua, C, C++, C#, Python, JavaScript, EJS, Roblox Studio, Kali Linux
 
 ---
 
