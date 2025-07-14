@@ -5,7 +5,7 @@
   <br><br>
   <strong> 🙏🙏  In C++ We Trust 🙏🙏 </strong>
   <br><br>
-  <img src="https://profile-counter.glitch.me/ItsMeD4N/count.svg" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ItsMeD4N&count_bg=%237B1E1E&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
 </p>
 
 ---
