@@ -1,7 +1,7 @@
 <h1 align="center">🌙 Welcome to My GitHub</h1>
 
 <p align="center">
-  <strong>🎮 Fivem/Redm Developer</strong>
+  <strong>Fivem/Redm Developer</strong>
   <br><br>
   <strong> 🙏🙏  In C++ We Trust 🙏🙏 </strong>
   <br><br>
