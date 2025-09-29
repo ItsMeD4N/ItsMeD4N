@@ -11,7 +11,7 @@
 
 ### 🧠 About
 
-- 🌌 Passionate about reverse engineering and system-level scripting
+- 🌌 Passionate about cyber security
 - 🛠️ Focused on performance, minimalism, and clean UX
 
 ---
