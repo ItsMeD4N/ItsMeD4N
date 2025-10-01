@@ -25,10 +25,11 @@
   <img src="https://img.shields.io/badge/C%23-2C2D30?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-2C2D30?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-2C2D30?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Haskell-2C2D30?style=for-the-badge&logo=haskell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2C2D30?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/React-2C2D30?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-2C2D30?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-2C2D30?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-2C2D30?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
