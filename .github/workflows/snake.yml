@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Pacman Snake
 
 on:
   schedule:
@@ -13,11 +13,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate Pacman style snake
         uses: Platane/snk@v3
         with:
           github_user_name: ItsMeD4N
-          outputs: dist/snake.svg
+          outputs: |
+            dist/pacman.svg?palette=github-dark&color_snake=#FFD700&color_dots=#222222,#444444,#888888,#CCCCCC,#FFFFFF
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
