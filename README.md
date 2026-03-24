@@ -10,5 +10,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ItsMeD4N/ItsMeD4N/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/ItsMeD4N/ItsMeD4N/output/pacman.svg" />
 </p>
