@@ -1,7 +1,7 @@
 # Hi, I'm DAN 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmed4n&show_icons=true&count_private=true&include_all_commits=true" />
+  <a href="https://stats.hyo.dev/stats/itsmed4n"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=itsmed4n" width="600" /></a>
 </p>
 
 <p align="center">
