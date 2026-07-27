@@ -23,10 +23,10 @@ jobs:
           config: |
             card:
               lines:
-                - { type: header, text: 'Daniel Putra' }
+                - { type: header, text: 'DAN' }
 
-                - { type: kv, key: Role, value: 'FiveM Developer' }
-                - { type: kv, key: Stack, value: 'Lua • React • TypeScript' }
+                - { type: kv, key: Role, value: 'Full Stack Developer' }
+                - { type: kv, key: Stack, value: 'React • TypeScript • JavaScript • Lua • Python • C# • C++ • C • Java • Haskell' }
 
                 - { type: section, title: 'GitHub Stats' }
 
