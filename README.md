@@ -10,8 +10,8 @@
   />
 
   <img
-    src="https://raw.githubusercontent.com/ItsMeD4N/ItsMeD4N/output/light_mode.svg"
-    alt="ASCII Card"
+    src="https://raw.githubusercontent.com/ItsMeD4N/ItsMeD4N/output/dark_mode.svg"
+    alt="ASCII Profile Card"
   />
 </picture>
 
