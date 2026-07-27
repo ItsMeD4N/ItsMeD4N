@@ -1,41 +1,77 @@
-name: ASCII Profile Card
+login: ItsMeD4N
 
-on:
-  push:
-    branches:
-      - main
+uptimeStart: 2021-01-01
 
-  schedule:
-    - cron: "0 4 * * *"
+art:
+  seed: daily
+  width: 420
+  columns: 42
+  rows: 24
+  scale: 2.4
+  warp: 2.2
+  bands: 3.2
+  contrast: 2.8
+  octaves: 4
 
-  workflow_dispatch:
+card:
+  align: left
+  lowercase: false
 
-permissions:
-  contents: write
+  lines:
+    - { type: header, text: 'DAN' }
 
-jobs:
-  profile-card:
-    runs-on: ubuntu-latest
+    - { type: kv, key: Role, value: 'Full Stack Developer' }
+    - { type: kv, key: Website, value: 'itsmedan.dev' }
+    - { type: kv, key: GitHub, value: '@ItsMeD4N' }
 
-    steps:
-      - uses: hu553in/ascii-profile-card@v1
-        with:
-          config: |
-            card:
-              lines:
-                - { type: header, text: 'DAN' }
+    - { type: blank }
 
-                - { type: kv, key: Role, value: 'Full Stack Developer' }
-                - { type: kv, key: Frontend, value: 'React • TypeScript • JavaScript' }
-                - { type: kv, key: Backend, value: 'Lua • Python • C# • C++' }
+    - { type: section, title: 'Tech Stack' }
 
-                - { type: section, title: 'GitHub Stats' }
+    - { type: kv, key: Frontend, value: 'React • TypeScript • JavaScript' }
+    - { type: kv, key: Backend, value: 'Node.js • Lua • Python' }
+    - { type: kv, key: Systems, value: 'C# • C++ • Java • C' }
 
-                - { type: kv, key: Stars, value: '{stars}' }
-                - { type: kv, key: Repositories, value: '{repos}' }
-                - { type: kv, key: Followers, value: '{followers}' }
-                - { type: kv, key: Contributions, value: '{contributions}' }
+    - { type: blank }
 
-                - { type: section, title: 'Languages' }
+    - { type: section, title: 'GitHub Stats' }
 
-                - { type: kv, key: Top, value: '{topLanguages}' }
+    - { type: kv, key: Repositories, value: '{repos}' }
+    - { type: kv, key: Stars, value: '{stars}' }
+    - { type: kv, key: Followers, value: '{followers}' }
+    - { type: kv, key: Contributions, value: '{contributions}' }
+    - { type: kv, key: Top Languages, value: '{topLanguages}' }
+
+layout:
+  charWidthPx: 9.8
+  columnGapPx: 20
+  cornerRadiusPx: 15
+  fontFamily: "'JetBrains Mono', 'Cascadia Code', Consolas, monospace"
+  fontSizePx: 15
+  paddingPx: 16
+  rowHeightPx: 20
+  ruleWidth: 54
+  valueColumn: 18
+
+output:
+  dark: dark_mode.svg
+  light: light_mode.svg
+
+themes:
+  dark:
+    background: '#0d1117'
+    text: '#e6edf3'
+    key: '#58a6ff'
+    value: '#f0f6fc'
+    dots: '#6e7681'
+    added: '#3fb950'
+    deleted: '#f85149'
+
+  light:
+    background: '#ffffff'
+    text: '#24292f'
+    key: '#0969da'
+    value: '#24292f'
+    dots: '#8b949e'
+    added: '#1a7f37'
+    deleted: '#cf222e'
