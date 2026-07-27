@@ -26,7 +26,8 @@ jobs:
                 - { type: header, text: 'DAN' }
 
                 - { type: kv, key: Role, value: 'Full Stack Developer' }
-                - { type: kv, key: Stack, value: 'React • TypeScript • JavaScript • Lua • Python • C# • C++ • C • Java • Haskell' }
+                - { type: kv, key: Frontend, value: 'React • TypeScript • JavaScript' }
+                - { type: kv, key: Backend, value: 'Lua • Python • C# • C++' }
 
                 - { type: section, title: 'GitHub Stats' }
 
