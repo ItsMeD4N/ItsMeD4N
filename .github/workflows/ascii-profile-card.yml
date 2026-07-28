@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: ItsMeD4N/ascii-profile-card@main
+      - uses: hu553in/ascii-profile-card@v1
         with:
           config: |
             login: ItsMeD4N
