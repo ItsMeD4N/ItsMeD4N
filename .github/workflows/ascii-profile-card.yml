@@ -52,8 +52,8 @@ jobs:
                 - { type: section, title: 'Tech Stack' }
 
                 - { type: kv, key: Frontend, value: 'React • TypeScript • JavaScript' }
-                - { type: kv, key: Backend, value: 'Node.js • Lua • Python' }
-                - { type: kv, key: Systems, value: 'C# • C++ • Java • C' }
+                - { type: kv, key: Backend, value: 'Node.js • Python • Go • Lua • Java • Haskell' }
+                - { type: kv, key: Systems, value: 'C • C++ • C#' }
 
                 - { type: blank }
 
